@@ -159,10 +159,6 @@ func main() {
       st: "-",
     }
   }
-  //fmt.Println(ti_lines)
-  //fmt.Println(NomeraA)
-  //fmt.Println(NomeraB)
-  //fmt.Println(Schedule)
 
    //main cyle
     for {
@@ -193,7 +189,6 @@ func main() {
                 
       	  for _, line := range ti_lines {
       	    Schedule[line[0]]= Sche{
-      	      //t: line[0],
       	      na: line[1],
       	      nb: line[2],
       	      st: "-",
