@@ -1,0 +1,4 @@
+github.com/kakysha/elasticemail v0.0.0-20181016235458-2446ae96ab5d h1:22pP8k0uI/W9cI7AHhSGHmjzjZYQbBHN/+brldpzg8M=
+github.com/kakysha/elasticemail v0.0.0-20181016235458-2446ae96ab5d/go.mod h1:+Gp0rdhQmVjENN3dt/qwoYWaZl4Fz/BmGfS7FPG4H5k=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
