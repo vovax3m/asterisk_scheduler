@@ -153,7 +153,6 @@ func main() {
 
   for _, line := range ti_lines {
     Schedule[line[0]]= Sche{
-      //t: line[0],
       na: line[1],
       nb: line[2],
       st: "-",
